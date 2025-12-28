@@ -36,7 +36,6 @@ export class UsersService {
     } catch (error) {
       console.error('Error reading file:', error);
       return [];
-      //throw new InternalServerErrorException('Could not load users');
     }
   }
 
