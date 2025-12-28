@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Dani Levi",
+    "email": "danilevi@gmail.com",
+    "phone": "+972541234567",
+    "birthday": "1990-04-23T18:25:43.511Z",
+    "id": "danilevi@gmail.com",
+    "userId": 123456789
+  },
+  {
+    "fullName": "Danit Levi",
+    "email": "danitlevi@gmail.com",
+    "phone": "+972545034768",
+    "birthday": "1996-02-11T05:15:03.511Z",
+    "id": "danitlevi1@gmail.com",
+    "userId": 123456743
+  },
+  {
+    "fullName": "Elad Levi",
+    "email": "eladlevi@gmail.com",
+    "phone": "+972541254867",
+    "birthday": "1980-06-13T18:15:43.511Z",
+    "id": "eladlevi@gmail.com",
+    "userId": 4356788
+  },
+  {
+    "fullName": "Lior Levi",
+    "phone": "+972543283867",
+    "email": "liorlevi@gmail.com",
+    "birthday": "1985-10-20T10:01:55.511Z",
+    "id": "liorlevi@gmail.com",
+    "userId": 582364000
+  },
+  {
+    "fullName": "Tamir Peretz",
+    "phone": "+972523288867",
+    "email": "tamirperetz@gmail.com",
+    "birthday": "1997-12-28T00:00:00.000Z",
+    "id": "tamirperetz@gmail.com",
+    "userId": 582364000
+  },
+  {
+    "fullName": "Shir Peretz",
+    "phone": "+972503388857",
+    "email": "shirperetz@gmail.com",
+    "birthday": "1999-10-29T00:00:00.000Z",
+    "id": "shirperetz@gmail.com",
+    "userId": 987654321
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "identificationNumber": 123456789,
+    "fullName": "David Cohen",
+    "email": "davidco@gmail.com",
+    "password": "a1b2c3d4"
+  },
+  {
+    "identificationNumber": 4356788,
+    "fullName": "Eran Cohen",
+    "email": "eranco@gmail.com",
+    "password": "asdf1234"
+  },
+  {
+    "identificationNumber": 194578,
+    "fullName": "Eliran Cohen",
+    "email": "eliranco@gmail.com",
+    "password": "eliran1b2c3d4"
+  },
+  {
+    "identificationNumber": 123456743,
+    "fullName": "Benny Cohen",
+    "email": "bennyco@gmail.com",
+    "password": "we1bcd4"
+  },
+  {
+    "identificationNumber": 987654321,
+    "fullName": "Hagay Cohen",
+    "email": "hagayco@gmail.com",
+    "password": "we17cd4"
+  },
+  {
+    "identificationNumber": 582364000,
+    "fullName": "Yael Cohen",
+    "email": "yaelco@gmail.com",
+    "password": "we1tttt4"
+  }
+]
